@@ -23,8 +23,8 @@ Highlighted sections such as Hero, About, Features, and Contact
 Clear call-to-action (CTA) buttons for user engagement
 # ⚙ How it Works
 Visitors arrive on the page and move through a structured flow. The design removes distractions and keeps focus on the key message, making it easier for users to take action.
-
 # output-2
+![Image](https://github.com/user-attachments/assets/ba1fef77-3237-43b8-8562-fe1f4d09ccb9)
 
 # task-3  calculator
 #🔢 (numbers) ,
