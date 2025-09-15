@@ -13,8 +13,7 @@ Fetch API → handles data requests
 Local Storage API → stores user inputs/preferences
 # output-1
 http://127.0.0.1:5500/codsoft/portfolio.html
-![Image](https://github.com/user-attachments/assets/e676aa61-021f-48bd-ab7b-ee4293150d2f)
-![Image](https://github.com/user-attachments/assets/c0830f26-8563-4911-8544-e94ab0dc8e37)
+
 
 # task-2 landing page
 # 🌐 About
