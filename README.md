@@ -1,41 +1,42 @@
 # CodSoft
 
 # task-1  portfolio
-🌐 About
+# 🌐 About
 A web-based portfolio designed to showcase tasks and skills in a structured, professional way.
-✨ Features
+# ✨ Features
 Responsive and interactive design
 Easy navigation across sections
-⚙ How it Works
+# ⚙ How it Works
 Runs as a simple web application where users can browse content smoothly on any device.
-🔗 APIs Used
+# 🔗 APIs Used
 Fetch API → handles data requests
 Local Storage API → stores user inputs/preferences
 # output-1
+![Image](https://github.com/user-attachments/assets/c0830f26-8563-4911-8544-e94ab0dc8e37)
 
 # task-2 landing page
-🌐 About
+# 🌐 About
 A landing page is a single, focused web page built to showcase something specific — like a product, service, or portfolio. Its main goal is to grab attention and guide users toward an action.
-✨ Features
+# ✨ Features
 Clean, responsive design
 Highlighted sections such as Hero, About, Features, and Contact
 Clear call-to-action (CTA) buttons for user engagement
-⚙ How it Works
+# ⚙ How it Works
 Visitors arrive on the page and move through a structured flow. The design removes distractions and keeps focus on the key message, making it easier for users to take action.
 
 # output-2
 
 # task-3  calculator
-🔢 (numbers)
-➗ (division)
+#🔢 (numbers)
+#➗ (division)
 ✖➕➖ (operations)
 🖩(classic calculator)
-🌐 About
+# 🌐 About
 A simple yet modern web-based calculator designed to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
-✨ Features
+# ✨ Features
 Clean and user-friendly interface
 Responsive design for all devices
 Supports multiple operations with clear display
-⚙ How it Works
+# ⚙ How it Works
 The calculator takes user input through buttons, processes the operation using JavaScript logic, and instantly displays the result on screen.
 # output-3
