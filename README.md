@@ -27,9 +27,9 @@ Visitors arrive on the page and move through a structured flow. The design remov
 # output-2
 
 # task-3  calculator
-#🔢 (numbers)
-#➗ (division)
-✖➕➖ (operations)
+#🔢 (numbers) ,
+#➗ (division) ,
+✖➕➖ (operations) ,
 🖩(classic calculator)
 # 🌐 About
 A simple yet modern web-based calculator designed to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
@@ -37,7 +37,7 @@ A simple yet modern web-based calculator designed to perform basic arithmetic op
 Clean and user-friendly interface
 Responsive design for all devices
 Supports multiple operations with clear display
-#⚙ How it Works
+# ⚙ How it Works
 The calculator takes user input through buttons, processes the operation using JavaScript logic, and instantly displays the result on screen.
 # output-3
 ![Image](https://github.com/user-attachments/assets/90908e0b-96df-4c23-9d97-9ff5154851f2)
